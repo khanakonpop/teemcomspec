@@ -1,0 +1,51 @@
+{
+  "monitor": [
+    {"id": 1,"name": "LG 24 นิ้ว 240 Hz","price": 2500,"image": "photos/monitor/ips2k.jpg"},
+    {"id": 2,"name": "MSI 27 นิ้ว 240 Hz","price": 2500,"image": "photos/monitor/ips24.jpg"}
+  ],
+
+  "mainboard": [
+    {"id": 1,"name": "B760","price": 2500,"image": "photos/mb/B760.jpg"},
+    {"id": 2,"name": "H610","price": 2500,"image": "photos/mb/H610.jpg"}
+  ],
+
+  "cpu": [
+    {"id": 1,"name": "i9 14100K","price": 2500,"image": "photos/cpu/i914k.jpg"},
+    {"id": 2,"name": "R5 5600","price": 200000,"image": "photos/cpu/R55600.jpg"}
+  ],
+
+  "ram": [
+    {"id": 1,"name": "Ram 16 (8x2)","price": 3000,"image": "photos/ram/8x2fury.jpg"},
+    {"id": 2,"name": "Ram 16 (16x1)","price": 4500,"image": "photos/ram/16xfury.jpg"}
+  ],
+
+  "gpu": [
+    {"id": 1,"name": "RTX 4060","price": 6500,"image": "photos/vga/rtx4060.jpg"},
+    {"id": 2,"name": "RTX 3080","price": 9200,"image": "photos/vga/rtx3080.jpg"},
+    {"id": 3,"name": "RTX 2060s","price": 2500,"image": "photos/vga/rxt2060.jpg"},
+    {"id": 4,"name": "GTX 1650","price": 1300,"image": "photos/vga/gtx1650.jpg"}
+  ],
+
+  "ssd": [
+    {"id": 1,"name": "SAMSUNG 240Gb SATA","price": 3500,"image": "photos/storage/SAMSUNG 240Gb.jpg"},
+    {"id": 2,"name": "SAMSUNG 1Tb M.2","price": 3500,"image": "photos/storage/SAMSUNG 1Tb M.2.jpg"}
+    
+  ],
+
+  "hdd": [
+    {"id": 1,"name": "WD Blue 4Tb ","price": 2500,"image": "photos/storage/HDDWDBLUE4T.jpg"},
+    {"id": 2,"name": "WD Black 1Tb ","price": 800,"image": "photos/storage/HDDWDBLUE1T.jpg"}
+  ],
+
+  "psu": [
+    {"id": 1,"name": "Aero 600w 80+","price": 1300,"image": "photos/powersupply/Aero600w.jpg"},
+    {"id": 2,"name": "Rog 1000w 80+","price": 2300,"image": "photos/powersupply/ROG1000w80+.jpg"},
+    {"id": 3,"name": "Aero 550","price": 450,"image": "photos/powersupply/Aero550w.jpg"}
+  ],
+
+  "case": [
+    {"id": 1,"name": "SAMA","price": 650,"image": "photos/case/SAMA.jpg"},
+    {"id": 2,"name": "IHAVECPU","price": 650,"image": "photos/case/IHAVECPU.jpg"},
+    {"id": 3,"name": "COOL CASE","price": 650,"image": "photos/case/COOL CASE.jpg"}
+  ]
+}

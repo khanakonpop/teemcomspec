@@ -1,0 +1,12 @@
+[
+  { "category":"cpu", "name":"Ryzen 5 5600", "price":4500, "stock":5, "image":"photos/cpu/R55600.jpg" },
+  { "category":"cpu", "name":"Intel i5 5600", "price":5550, "stock":2, "image":"photos/cpu/R55600.jpg" },
+  { "category":"gpu", "name":"RTX 4060", "price":12000, "stock":3, "image":"photos/gpu/gpu1.jpg" },
+  { "category":"ram", "name":"16GB DDR4", "price":1500, "stock":10, "image":"photos/ram/ram1.jpg" },
+  { "category":"ssd", "name":"SSD 1TB", "price":2000, "stock":8, "image":"photos/storage/s1.jpg" },
+  { "category":"hdd", "name":"HDD 2TB", "price":1800, "stock":6, "image":"photos/storage/h1.jpg" },
+  { "category":"psu", "name":"650W PSU", "price":1800, "stock":4, "image":"photos/psu/p1.jpg" },
+  { "category":"case", "name":"Black PSU", "price":1800, "stock":4, "image":"photos/psu/p1.jpg" },
+  { "category":"monitor", "name":"24\" Monitor", "price":4000, "stock":6, "image":"photos/monitor/m1.jpg" }
+  
+]
